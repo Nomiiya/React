@@ -1,7 +1,3 @@
-This was made following this tutorial for React: https://youtu.be/sBws8MSXN7A 
-
-Uses https://jsonplaceholder.typicode.com/ for a psuedo back-end database.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
