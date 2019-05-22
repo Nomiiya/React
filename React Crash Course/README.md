@@ -1,3 +1,7 @@
+Created from a Crash Course for React from : https://www.youtube.com/watch?v=sBws8MSXN7A 
+
+Used A Psuedo back-end for testing: https://jsonplaceholder.typicode.com/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
